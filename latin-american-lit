@@ -1,3 +1,20 @@
-<DOCTYPE! HTML>
-
-</HTML>
+<doctype! html>
+  <b>
+    <h>Authors of Latin America</h>
+    <p>Jorge Luis Borges is by far one of the most important writers of Latin America. 
+        One metric which can be used to gauge an author’s importance is to consider 
+        how many books have been written about them.   How much has their work captivated 
+        the attention of literary critics, and how much debate has it generated? Counting books, 
+        however, is easier said than done.  A set of criteria need to be established for which 
+        books to include in such a count. Thus, to gain a sense of Borges’s reputation, a 
+        basic approach could be to count how many books in the Library of Congress—the largest 
+        collection in the world—, contain him as the subject. The same could then be done for his peers. 
+        Upon tallying the number of materials that are: a) penned about authors from Latin America, 
+        and b) housed in the world’s biggest library, it emerges that Borges, with 962, 
+        is the second-most-written-about author from the region, second only to José Martí, with 975.  
+        As the graph below (Figure 1.1) depicts, after Martí and Borges, there is a sharp drop-off. 
+        They are followed by the Nobel laureates Neruda (with 485) and García Márquez (with 445), 
+        in third and fifth. The highest-ranking Brazilian, Machado de Assis, places between them in 
+        fourth (with 453); Darío (with 422) and Sarmiento (with 413) are next in sixth and seventh, respectively. </p>
+  </b>
+</html>
